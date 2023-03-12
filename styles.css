@@ -26,10 +26,9 @@ body {
   height: 75px;
   font-size: 2rem;
   text-align: right;
-  direction: rtl;
 }
 
-#buttons {
+#button-table {
   width: 100%;
 }
 
