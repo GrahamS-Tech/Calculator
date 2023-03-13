@@ -2,7 +2,7 @@
 
 *A calculator written in pure JavaScript, HTML, and CSS*
 
-Use it [here](https://kendric84.github.io/Calculator/)
+Use it [here](https://grahams-tech.github.io/Calculator/)
 
 ![App Screenshot](Screenshot.png)
 
